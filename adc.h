@@ -1,0 +1,1 @@
+void ADC0powerUpInit(void);
